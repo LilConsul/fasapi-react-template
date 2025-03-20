@@ -26,10 +26,11 @@ Follow the steps below to get this project running on your local machine.
 
 ```bash
 git clone https://github.com/LilConsul/fasapi-react-template.git 
-cd react-fastapi-postgres-template
+cd fasapi-react-template
 ```
 
-### 2. Launch docker on your local machine and run the following command
+### 2. Start the application
+Launch docker on your local machine and run the following command.
 
 ```bash
 docker-compose up
