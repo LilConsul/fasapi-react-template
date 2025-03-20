@@ -5,7 +5,7 @@ This is a template for building a full-stack application using React, FastAPI, P
 ## Features
 
 - **Frontend**: React and TailwindCSS v4 .
-- **Backend**: FastAPI on python 3.13 with a PostgreSQL database.
+- **Backend**: Python 3.13 / FastAPI with a PostgreSQL database.
 - **API Docs**: Swagger API docs available at `/api/docs`.
 - **Nginx**: Serves the React frontend and proxies API requests to FastAPI, with self-signed SSL certificates for HTTPS support.
 - **Docker**: The project runs with a simple command `docker-compose up`.
