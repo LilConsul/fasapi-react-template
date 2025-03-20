@@ -25,8 +25,8 @@ Follow the steps below to get this project running on your local machine.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/LilConsul/fasapi-react-template.git 
-cd fasapi-react-template
+git clone https://github.com/LilConsul/fastapi-react-template.git 
+cd fastapi-react-template
 ```
 
 ### 2. Start the application
