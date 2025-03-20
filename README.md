@@ -4,8 +4,8 @@ This is a template for building a full-stack application using React, FastAPI, P
 
 ## Features
 
-- **Frontend**: React app with Tailwind CSS preinstalled.
-- **Backend**: FastAPI with a PostgreSQL database.
+- **Frontend**: React and TailwindCSS v4 .
+- **Backend**: FastAPI on python 3.13 with a PostgreSQL database.
 - **API Docs**: Swagger API docs available at `/api/docs`.
 - **Nginx**: Serves the React frontend and proxies API requests to FastAPI, with self-signed SSL certificates for HTTPS support.
 - **Docker**: The project runs with a simple command `docker-compose up`.
@@ -26,10 +26,11 @@ Follow the steps below to get this project running on your local machine.
 
 ```bash
 git clone https://github.com/LilConsul/fasapi-react-template.git 
-cd react-fastapi-postgres-template
+cd fasapi-react-template
 ```
 
-### 2. Launch docker on your local machine and run the following command
+### 2. Start the application
+Launch docker on your local machine and run the following command.
 
 ```bash
 docker-compose up
